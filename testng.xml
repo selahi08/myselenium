@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite" parallel="false">
+  <test name="MySeleniumTest">
+    <classes>
+      <class name="com.test.tests.MyFirstSelTest"/>
+      <class name="com.test.tests.SeleniumTest2"/>
+    </classes>
+  </test> <!-- testng -->
+</suite> <!-- Suite -->
