@@ -9,7 +9,10 @@ public void MynamePrint(){
 System.out.println("My name is Saddam");
 }
 
-
+@Test
+public void MynamePrint1(){
+System.out.println("My name is Elahi");
+}
 
 
 }
