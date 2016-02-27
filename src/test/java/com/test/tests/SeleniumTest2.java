@@ -14,5 +14,8 @@ public void MynamePrint1(){
 System.out.println("My name is Elahi");
 }
 
-
+@Test
+public void MynamePrint2(){
+System.out.println("My name is Malik");
+}
 }
