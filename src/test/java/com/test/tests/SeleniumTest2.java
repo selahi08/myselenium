@@ -23,4 +23,9 @@ System.out.println("My name is Sanowar");
 public void MynamePrint2(){
 System.out.println("My name is Malik");
 }
+
+@Test
+public void MynamePrint4(){
+System.out.println("My name is Kabir");
+}
 }
