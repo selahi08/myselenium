@@ -15,6 +15,11 @@ System.out.println("My name is Elahi");
 }
 
 @Test
+public void MynamePrint3(){
+System.out.println("My name is Sanowar");
+}
+
+@Test
 public void MynamePrint2(){
 System.out.println("My name is Malik");
 }
