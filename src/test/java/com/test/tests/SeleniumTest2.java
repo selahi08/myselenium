@@ -6,7 +6,7 @@ public class SeleniumTest2 extends TestBase {
 
 @Test
 public void MynamePrint(){
-System.out.println("My name is Elahi");
+System.out.println("My name is Saddam");
 }
 
 
